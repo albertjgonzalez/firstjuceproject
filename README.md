@@ -1,0 +1,2 @@
+# firstjuceproject
+learning juce framework
